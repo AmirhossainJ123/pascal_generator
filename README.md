@@ -11,5 +11,6 @@ a<sup>6</sup>+6a<sup>5</sup>b+6a<sup>5</sup>c+6a<sup>5</sup>d+6a<sup>5</sup>f+6a
 this monstrosity has the same numbers as the pascal 6D's 6th layer, the other use of it is umm explained by wikipedia idk how to explain it
 https://en.wikipedia.org/wiki/Pascal%27s_pyramid#Trinomial_distribution_connection
 and umm wikipedia in total explains good amount of uses of pascal: https://en.wikipedia.org/wiki/Pascal%27s_triangle
+https://en.wikipedia.org/wiki/Pascal%27s_simplex
 
 the reason why I made this was not related to school(umm a lil bit related but not really tbh), I was just bored -_-
