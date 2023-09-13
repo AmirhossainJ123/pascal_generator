@@ -1,5 +1,5 @@
 # Pascal Generator
-using this you can generate pascal triangle, pyramid, and for the forth dimension I will do it soon, the problem is visualizing the 4D but the formula is just simple: w!/(x!*(y-x)!*(z-y)!*(w-z)!)
+using this you can generate pascal triangle, pyramid, and for the forth dimension I will do it soon, the problem is visualizing the 4D but the formula is just simple: w!/(x!\*(y-x)!\*(z-y)!\*(w-z)!)
 # example of 3D generation:
 <img src="example.jpg">
 <h1>usage of pascal n-simplex gen:</h1>
@@ -13,4 +13,4 @@ https://en.wikipedia.org/wiki/Pascal%27s_pyramid#Trinomial_distribution_connecti
 and umm wikipedia in total explains good amount of uses of pascal: https://en.wikipedia.org/wiki/Pascal%27s_triangle
 https://en.wikipedia.org/wiki/Pascal%27s_simplex
 
-the reason why I made this was not related to school(umm a lil bit related but not really tbh), I was just bored -_-
+if it was helpful, please give it a star o.o
