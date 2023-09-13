@@ -2,7 +2,7 @@
 using this you can generate pascal triangle, pyramid, and for the forth dimension I will do it soon, the problem is visualizing the 4D but the formula is just simple: w!/(x!*(y-x)!*(z-y)!*(w-z)!)
 # example of 3D generation:
 <img src="example.jpg">
-# usage of pascal n-simplex gen:
+<h1>usage of pascal n-simplex gen:</h1>
 <img src="exmpl.png">
 well I dont find it a lot useful in daily life but like its definitely helpful like as example you can see in the image above, the layer 6 of a pascal 6D is a bunch of numbers, but not any random numbers summed up in a weird way(technically they are but like they have other uses too!) those numbers have a use in algebra for example (a+b+c+d+e+f)^6 is equal to
 
